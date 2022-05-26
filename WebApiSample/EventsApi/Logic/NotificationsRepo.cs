@@ -8,7 +8,7 @@ namespace EventsApi.Logic
         public NotificationRecord GetNotificationById(int id)
         {
              NotificationRecord rec = new NotificationRecord();
-             rec.NotificationName = "Test Event";
+             rec.Title = "Test Event";
              rec.Id = 1;
              return rec;
         }
