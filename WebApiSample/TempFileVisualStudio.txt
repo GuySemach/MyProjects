@@ -1,6 +1,4 @@
 first line
 second line
-even in between the current lines ... 
 Third line
 and so on ...
-and then I can add some comments from the VisualStudio. 
