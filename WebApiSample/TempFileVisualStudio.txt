@@ -1,5 +1,0 @@
-first line
-second line
-Third line
-and so on ...
-now it will be the final push in the same pullrequest - #2
